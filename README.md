@@ -63,7 +63,7 @@ dev_env\Scripts\activate.bat
 python /bin/api_demo.py
 ```
 
-## EndPoint to get information :execute;
+## EndPoint to get information :execute:
 
 _Get information of vehicle y id, <vehicle_d> it must be replacer by the param value
 
