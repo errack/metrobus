@@ -67,9 +67,9 @@ python /bin/api_demo.py
 
 _Get information of vehicle y id, <vehicle_d> it must be replacer by the param value_
 
-[link](localhost:5000/findMetrobus/vehicleId/<vehicle_id>)
+localhost:5000/findMetrobus/vehicleId/<vehicle_id>
 
 
 _Get information of all vehicles in to a mayoralty, <alcaldia> it must be replacer by the param value_
 
-[link](localhost:5000//findMetrobusByAlcaldia/alcaldia/<alcaldia>)
+localhost:5000//findMetrobusByAlcaldia/alcaldia/<alcaldia>
