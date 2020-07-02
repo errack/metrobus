@@ -1,0 +1,13 @@
+sources:
+  movilidad:
+    type: 'web-service'
+    config:
+      id: 'metrobus'
+      host: 'https://datos.cdmx.gob.mx'
+      url: '/test/url'
+  alcaldia:
+    type: 'web-service'
+    config:
+      id: 'geo_alcaldias'
+      host: 'https://datos.cdmx.gob.mx'
+      url: '/api/records/1.0/search/?dataset=limite-de-las-alcaldias&q=&rows=16&facet=nomgeo&refine.cve_mun=<ALCALDIA>'

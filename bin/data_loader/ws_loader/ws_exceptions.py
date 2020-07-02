@@ -1,0 +1,3 @@
+class ExceptionBadConfigurationWebService(Exception):
+    pass
+
