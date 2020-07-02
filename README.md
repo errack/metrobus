@@ -63,13 +63,13 @@ dev_env\Scripts\activate.bat
 python /bin/api_demo.py
 ```
 
-## EndPoint to get information :execute:
+## Execute we servie :earth_americas:
 
-_Get information of vehicle y id, <vehicle_d> it must be replacer by the param value
+_Get information of vehicle y id, <vehicle_d> it must be replacer by the param value_
 
 [link](localhost:5000/findMetrobus/vehicleId/<vehicle_id>)
 
 
-_Get information of all vehicles in to a mayoralty, <alcaldia> it must be replacer by the param value
+_Get information of all vehicles in to a mayoralty, <alcaldia> it must be replacer by the param value_
 
 [link](localhost:5000//findMetrobusByAlcaldia/alcaldia/<alcaldia>)
