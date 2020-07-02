@@ -1,6 +1,6 @@
 # Demo Metrobus
 
-_This repo is to test the API of Open CDMX data
+_This repo is to test the API of Open CDMX data_
 
 ## Getting Started :rocket:
 
